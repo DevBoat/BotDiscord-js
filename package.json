@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "discord.js": "^14.11.0"
+    "@discordjs/core": "^0.6.0"
   }
 }
